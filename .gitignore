@@ -1,0 +1,6 @@
+/node_modules
+
+
+git remote add origin git@github.com:swati39/nodeSnippet.git
+git branch -M main
+git push -u origin main
